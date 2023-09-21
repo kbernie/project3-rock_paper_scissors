@@ -1,1 +1,1 @@
-# project2-rock_paper_scissors
+# project3-rock_paper_scissors
